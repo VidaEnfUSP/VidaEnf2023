@@ -1,0 +1,11 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/LTCG
+"D:\VIDA_E\Plugins\VictoryPlugin\Intermediate\Build\Win64\UE4\Shipping\VictoryBPLibrary\PCH.VictoryBPLibrary.h.obj"
+"D:\VIDA_E\Plugins\VictoryPlugin\Intermediate\Build\Win64\UE4\Shipping\VictoryBPLibrary\Module.VictoryBPLibrary.cpp.obj"
+"D:\VIDA_E\Plugins\VictoryPlugin\Intermediate\Build\Win64\UE4\Shipping\VictoryBPLibrary\Module.VictoryBPLibrary.gen.1_of_2.cpp.obj"
+"D:\VIDA_E\Plugins\VictoryPlugin\Intermediate\Build\Win64\UE4\Shipping\VictoryBPLibrary\Module.VictoryBPLibrary.gen.2_of_2.cpp.obj"
+"D:\VIDA_E\Intermediate\Build\Win64\UE4\Shipping\VictoryBPLibrary\PCLaunch.rc.res"
+/OUT:"D:\VIDA_E\Plugins\VictoryPlugin\Binaries\Win64\UE4-VictoryBPLibrary-Win64-Shipping.lib"

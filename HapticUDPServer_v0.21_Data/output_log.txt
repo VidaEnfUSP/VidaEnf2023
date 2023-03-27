@@ -1,0 +1,58 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 630 (ID=0x5912)
+    Vendor:   Intel
+    VRAM:     4199 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Kenzo\Unreal_Projects\VIDA_E_4.19_refactor\Vida_E\HapticUDPServer_v0.21_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Kenzo\Unreal_Projects\VIDA_E_4.19_refactor\Vida_E\HapticUDPServer_v0.21_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Kenzo\Unreal_Projects\VIDA_E_4.19_refactor\Vida_E\HapticUDPServer_v0.21_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Kenzo\Unreal_Projects\VIDA_E_4.19_refactor\Vida_E\HapticUDPServer_v0.21_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Kenzo\Unreal_Projects\VIDA_E_4.19_refactor\Vida_E\HapticUDPServer_v0.21_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Kenzo\Unreal_Projects\VIDA_E_4.19_refactor\Vida_E\HapticUDPServer_v0.21_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Kenzo\Unreal_Projects\VIDA_E_4.19_refactor\Vida_E\HapticUDPServer_v0.21_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Kenzo\Unreal_Projects\VIDA_E_4.19_refactor\Vida_E\HapticUDPServer_v0.21_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.116 seconds
+Platform assembly: D:\Kenzo\Unreal_Projects\VIDA_E_4.19_refactor\Vida_E\HapticUDPServer_v0.21_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Kenzo\Unreal_Projects\VIDA_E_4.19_refactor\Vida_E\HapticUDPServer_v0.21_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 59Hz; virtual: 3200x1080 at -1280,0
+<RI> Initialized touch support.
+UnloadTime: 0.850652 ms
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Endpoint set to 127.0.0.1 : 8052
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OpenGL Context Launched
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Haptic Device Launched
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1c20 -> priority: 1 
+  Thread -> id: 814 -> priority: 1 
+  Thread -> id: 27bc -> priority: 1 
+  Thread -> id: 1f3c -> priority: 1 
+Haptic Context CleanUp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Desactivate Device
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OpenGL Context CleanUp
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
